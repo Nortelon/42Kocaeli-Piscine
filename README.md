@@ -13,3 +13,5 @@ This is my Ecole 42 Piscine experience.
 <li>c_01 (%100)</li>
 <li>c_02 (%-)</li>
 <li>c_03 (%-)</li>
+
+<h2> 42 Nedir? </h2>
