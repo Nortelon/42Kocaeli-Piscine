@@ -38,4 +38,14 @@ Bu benim Ecole 42 Havuz deneyimim.
   
 </p>
 
+Yazmanız gereken komuutların sıralı listesi:
+```
+git init
+git add .
+git status
+git commit -m "herhangi_bir_yazı"
+git remote add "proje_sayfasındaki_git_linki" 'commit_kısmında_koyduğunuz_isim'
+git push 'koyduğunuz_isim' master
+```
+
 <p> Bana Discord üzerinden veya Instagram üzerinden ulaşabilir ve sorularınızı sorabilirsiniz. <br> <br> Discord: Nortelon#0001 <br> <br> Instagram: ferzanserbulend</p>
