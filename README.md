@@ -49,3 +49,4 @@ git push 'koyduğunuz_isim' master
 ```
 
 <p> Bana Discord üzerinden veya Instagram üzerinden ulaşabilir ve sorularınızı sorabilirsiniz. <br> <br> Discord: Nortelon#0001 <br> <br> Instagram: ferzanserbulend</p>
+<p> *Kursta yalnızca 4 proje yapmamın sebebi aslında bir tepkidir. Nedenini bana ulaşarak sorabilirsiniz.</p>
