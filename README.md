@@ -48,5 +48,5 @@ git remote add "proje_sayfasındaki_git_linki" 'commit_kısmında_koyduğunuz_is
 git push 'koyduğunuz_isim' master
 ```
 
-<p> Bana Discord üzerinden veya Instagram üzerinden ulaşabilir ve sorularınızı sorabilirsiniz. <br> <br> Discord: Nortelon#0001 <br> <br> Instagram: ferzanserbulend</p>
+
 
